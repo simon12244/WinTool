@@ -1,11 +1,14 @@
 # WinTool 系统工具箱 v1.0.0
 
+**简体中文** | [English](README.en.md)
+
 一个**纯原生 Windows 桌面工具**（C# WinForms，非 HTML/Electron 套壳），把平时需要敲命令行、
 翻好几层设置面板才能完成的事，做成一次点击。
 
-- 单文件绿色版：**WinTool.exe（约 220 KB）**，双击即用，不用安装、不写注册表、不装运行时
+- 单文件绿色版：**WinTool.exe（约 230 KB）**，双击即用，不用安装、不写注册表、不装运行时
 - 深度绑定系统：直接驱动 `shutdown.exe` / `netsh` / `powercfg` / `schtasks` / WMI / 注册表
 - 兼容性：Windows 7 SP1 / 8.1 / 10 / 11（依赖系统自带的 .NET Framework 4.x，Windows 自带无需额外安装）
+- 下载：[最新版本 Releases](https://github.com/simon12244/WinTool/releases/latest)
 
 ---
 
