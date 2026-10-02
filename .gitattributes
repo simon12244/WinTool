@@ -1,0 +1,17 @@
+# 统一换行：仓库内保存 LF，签出到 Windows 时按需转换
+* text=auto
+
+*.cs    text diff=csharp
+*.ps1   text
+*.md    text
+*.config text
+*.manifest text
+*.gitignore text
+*.gitattributes text
+
+# 二进制文件不要做换行转换
+*.ico   binary
+*.exe   binary
+*.png   binary
+*.zip   binary
+*.7z    binary

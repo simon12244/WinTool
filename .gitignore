@@ -1,0 +1,33 @@
+# 编译产物（发布时在 release/ 里随源码一起提供，但 build 目录不入库）
+build/
+build/*.exe
+build/pages/
+build/logs/
+build/scripts/
+build/*.txt
+build/*.ini
+build/*.log
+build/*.html
+build/error.log
+
+# 本地产物 / 运行期数据
+release/
+logs/
+scripts/
+wintool.ini
+error.log
+selftest.txt
+
+# 下载的第三方工具（Git 安装包等，体积大且可重新获取）
+_tools/
+
+# 临时与编辑器文件
+*.tmp
+*.bak
+*.user
+*.suo
+.vs/
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
