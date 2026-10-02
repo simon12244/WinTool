@@ -1,0 +1,51 @@
+MIT License
+
+Copyright (c) 2026 WinTool contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## 中文说明（非官方译文，仅供理解，以英文原文为准）
+
+MIT 许可证
+
+版权所有 (c) 2026 WinTool 贡献者
+
+特此免费授予任何获得本软件及相关文档文件（以下简称“本软件”）副本的人不受限制地处置本软件的权利，
+包括但不限于使用、复制、修改、合并、发布、分发、再许可和/或销售本软件副本的权利，
+并允许获得本软件的人在遵守以下条件的前提下这样做：
+
+上述版权声明和本许可声明应包含在本软件的所有副本或主要部分中。
+
+本软件按“原样”提供，不附带任何形式的明示或暗示担保，包括但不限于对适销性、特定用途适用性
+及非侵权的担保。在任何情况下，作者或版权持有人均不对因本软件或本软件的使用或其他处置
+而产生的任何索赔、损害或其他责任承担责任，无论是在合同诉讼、侵权行为还是其他方面。
+
+---
+
+## 重要免责声明
+
+本软件会**真实执行**关机、重启、注销、休眠、网络重置（Winsock / TCP-IP / 防火墙）、
+DNS 修改、网卡启停、临时文件删除、启动项启停、进程结束等系统级操作。
+
+使用者应自行确认操作意图并承担全部后果。因误操作、误解功能或使用环境差异导致的
+数据丢失、服务中断、系统异常等，作者与贡献者不承担任何责任。
+
+请不要在关键生产设备上未经测试直接使用本软件。
